@@ -1,0 +1,13 @@
+.carousel-inner .carousel-item {
+    position: relative;
+  }
+  .carousel-inner .carousel-item:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: #00000069;
+    width: 100%;
+    content: '';
+  }

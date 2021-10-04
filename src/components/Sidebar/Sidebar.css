@@ -1,0 +1,11 @@
+.sidebar {
+    background: gold;
+    width: 400px;
+    min-width: 360px;
+}
+.teacher {
+    border-bottom: 1px solid #fff3b2;
+}
+.teacher img {
+    max-width: 80%;
+}
